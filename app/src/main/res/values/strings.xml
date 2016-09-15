@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes+</string>
+    <string name="action_about">About</string>
+    <string name="about">CodePath Notes+ App</string>
+    <string name="title_activity_editor">Edit Note</string>
+    <string name="new_note">New Note</string>
+    <string name="note_updated">Note Updated</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_search">Search Note</string>
+    <string name="delete_all">Delete All</string>
+    <string name="all_deleted">All Notes Deleted</string>
+    <string name="are_you_sure">are you sure?</string>
+    <string name="enter_note">Enter Note</string>
+    <string name="action_save">Save</string>
+</resources>
